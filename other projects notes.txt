@@ -1,0 +1,32 @@
+I COULD EAT A HORSE is a Scotland-wide arts project, run by A Moments's Peace Theatre Company, that aims to inspire individuals and communities to reflect upon their daily rituals and consider how these sit within a broader context of food production, accessibility and consumption.
+
+Gareth worked as the sound artist on 3 projects, taking sound recordings and composing scores for the final films.
+
+<iframe src="https://player.vimeo.com/video/79941368" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/79941369" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/79936277" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+————
+Music composed for the Droving Project. Two pieces were created using location recordings from Pete Smith and violin parts from Nick Jenkins to create two contemporary pieces for use in the documentary film which is to be presented as part of a mixed media exhibition.
+
+
+———
+
+The Acoustic Amplifier is an instrument/interactive installation designed by Gareth Griffiths, Matthew Collings and Giorgos Aposkitis. The aim of the project was to create a means of amplifying the expressive qualities of guitar performance; yet removed from the expected guitar sounds. 
+
+The signal from the guitar was analysed and used to trigger vibrating motors attached to a number of 'sounding objects' such a sheet metal, a metal lamp shade and a piano carcass, amongst other things. Careful mapping of the analysed data allowed the player to play the guitar, preserving the expressive intricacies of performance but also creating a wholly new sound world.
+
+
+
+————
+
+
+Transmission is a dance-tech work developed by choreographer Skye Reynolds. The work utilises Nintendo Wii controllers attached to dancers, sending gestural data used to compose sound and music in real-time. 
+
+I was responsible for the overall of the software into the Max for Live environment and the creation of some of the sound design.
+
+Here's Skye talking about the project.
+
+——
